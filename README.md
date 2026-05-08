@@ -106,24 +106,3 @@ If the output is `True`, PyTorch is using GPU acceleration.
 
 ---
 
-# Common Errors
-
-## Missing Package Error
-
-Install missing packages using:
-
-```bash
-pip install <package-name>
-```
-
----
-
-## YOLO Model File Not Found
-
-Ensure the model path in the notebook is correct and the `.pt` file exists.
-
----
-
-## File/Permission Errors
-
-Make sure all required folders and files exist and have proper access permissions.
